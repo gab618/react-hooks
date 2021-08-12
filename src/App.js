@@ -1,8 +1,9 @@
 import "./App.css";
-import UseState from "./components/UseState";
+import UseEffect from "./components/UseEffect";
+// import UseState from "./components/UseState";
 
 function App() {
-  return <UseState />;
+  return <UseEffect />;
 }
 
 export default App;
